@@ -1,2 +1,1 @@
-# CSCI-4964
-Introduction to Network Science (Fall 2021)
+# CSCI 4964 Introduction to Network Science (Fall 2021)
